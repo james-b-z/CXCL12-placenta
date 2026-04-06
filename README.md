@@ -1,5 +1,5 @@
 # CXCL12-placenta
-Repository to reproduce analyses from the manuscript "Uterine 3D imaging reveals a highly invasive mouse placenta and early requirement for CXCL12/CXCR4 during pregnancy
+Repository to reproduce analyses from the preprint "3D imaging of the pregnant uterus reveals an extensively invasive mouse placenta and early CXCL12-CXCR4 requirement"
 
 <h2>Running the Code</h2>
 This code requires Python packages: seaborn, numpy, pandas, and matplotlib. 
